@@ -1,0 +1,25 @@
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created : 2
+All threads have quit
+Time taken for threads to run = 9.66031 ms
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created : 2
+All threads have quit
+Time taken for threads to run = 7.89024 ms
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created : 2
+All threads have quit
+Time taken for threads to run = 7.09422 ms
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created : 2
+All threads have quit
+Time taken for threads to run = 7.64823 ms
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+Threads created : 2
+All threads have quit
+Time taken for threads to run = 8.33424 ms
