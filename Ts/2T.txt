@@ -1,0 +1,75 @@
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+7.94306
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.61905
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.09705
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.22104
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+8.42106
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.05304
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.41105
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.41505
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.83305
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.47205
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.73305
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.82105
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.41605
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+9.56507
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.53105
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.57305
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.19504
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.30405
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.57305
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.30905
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.52505
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.51305
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.21505
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+6.54505
+bin/CHeterodyning_threaded
+Clock resolution: 1 ns
+5.97504
