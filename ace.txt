@@ -2,24 +2,28 @@ bin/CHeterodyning_threaded
 Clock resolution: 1 ns
 Threads created : 8
 All threads have quit
-Time taken for threads to run = 14.6846 ms
+Time taken for threads to run = 1.51703 ms
 bin/CHeterodyning_threaded
 Clock resolution: 1 ns
 Threads created : 8
 All threads have quit
-Time taken for threads to run = 11.7665 ms
+Time taken for threads to run = 29.1516 ms
 bin/CHeterodyning_threaded
 Clock resolution: 1 ns
 Threads created : 8
 All threads have quit
-Time taken for threads to run = 10.5584 ms
+Time taken for threads to run = 9.95422 ms
 bin/CHeterodyning_threaded
 Clock resolution: 1 ns
 Threads created : 8
 All threads have quit
-Time taken for threads to run = 10.6964 ms
+Time taken for threads to run = 0.633014 ms
 bin/CHeterodyning_threaded
 Clock resolution: 1 ns
 Threads created : 8
 All threads have quit
-Time taken for threads to run = 13.8565 ms
+Time taken for threads to run = 15.4213 ms
+
+-Ofast -Og -funroll-loops
+8 threads
+float
